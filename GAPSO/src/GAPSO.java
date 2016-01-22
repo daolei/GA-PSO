@@ -9,7 +9,7 @@
 */
 
 /*
- * GAPSO: Defines the hybrid algorithm Generic Algorithm - Particle Swarm Optimization.
+ * GAPSO: Defines the hybrid algorithm Generic Algorithm - Particle Swarm Optimization
  * 
  * 		Methods:
  * 			- Selection(): defines the selection operator.
